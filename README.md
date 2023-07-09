@@ -9,7 +9,7 @@ Favorites: Add movies to your favorites section for quick access.
 Delete: Remove movies from your favorites section if no longer needed.
 
 ## Installation
-Clone the repository: git clone https://github.com/your-username/movie-search-app.git
+Clone the repository: git clone https://sumananand614.github.io/Movie-App.git
 Navigate to the project directory: cd movie-search-app
 Install dependencies: npm install
 
